@@ -1,0 +1,39 @@
+Last metadata expiration check: 0:09:37 ago on Tuesday 29 April 2025 11:43:15 PM.
+Dependencies resolved.
+================================================================================
+ Package             Architecture    Version              Repository       Size
+================================================================================
+Installing:
+ htop                x86_64          3.3.0-1.el9          epel            198 k
+Installing dependencies:
+ hwloc-libs          x86_64          2.4.1-5.el9          baseos          2.1 M
+
+Transaction Summary
+================================================================================
+Install  2 Packages
+
+Total download size: 2.3 M
+Installed size: 3.5 M
+Downloading Packages:
+(1/2): htop-3.3.0-1.el9.x86_64.rpm              278 kB/s | 198 kB     00:00    
+(2/2): hwloc-libs-2.4.1-5.el9.x86_64.rpm        2.0 MB/s | 2.1 MB     00:01    
+--------------------------------------------------------------------------------
+Total                                           824 kB/s | 2.3 MB     00:02     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1 
+  Installing       : hwloc-libs-2.4.1-5.el9.x86_64                          1/2 
+  Installing       : htop-3.3.0-1.el9.x86_64                                2/2 
+  Running scriptlet: htop-3.3.0-1.el9.x86_64                                2/2 
+  Verifying        : htop-3.3.0-1.el9.x86_64                                1/2 
+  Verifying        : hwloc-libs-2.4.1-5.el9.x86_64                          2/2 
+
+Installed:
+  htop-3.3.0-1.el9.x86_64             hwloc-libs-2.4.1-5.el9.x86_64            
+
+Complete!
+Last metadata expiration check: 0:11:35 ago on Tuesday 29 April 2025 11:43:15 PM.
+No match for argument: notexist
