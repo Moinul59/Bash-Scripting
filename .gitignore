@@ -1,0 +1,6 @@
+# Or just ignore log files inside your practice folder
+**/*.log
+
+# Ignore archive files if needed
+**/*.tar.gz
+
